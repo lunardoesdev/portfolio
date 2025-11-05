@@ -6,12 +6,6 @@ I create simple, elegant solutions.
 
 # Examples of my work:
 
-## small cute portfolio site
-https://lunardoesdev.github.io/portfolio
-
-Small portfolio site, written with minimalism
-in mind.
-
 ## color palette generator:
 https://lunardoesdev.github.io/colorpalette
 
@@ -32,6 +26,13 @@ minimalistic but shows that I can work with javascript,
 typescript, animations, and you can play it of course
 
 source: https://github.com/lunardoesdev/matchmem
+
+
+## small cute portfolio site
+https://lunardoesdev.github.io/portfolio
+
+Small portfolio site, written with minimalism
+in mind.
 
 
 # Contacts
