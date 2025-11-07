@@ -64,6 +64,13 @@ in mind.
 ## loading and showing tilemap in javascript/kaplay:
 https://lunardoesdev.github.io/infinite-world-generator/
 
+## rust bindings to libi2pd
+https://github.com/lunardoesdev/i2pd-rust
+
+it will download a lot of deps automatically and
+build libi2pd from source statically to be used
+from rust using "safe" api wrapper crate.
+
 # Contacts
 
 - Telegram: @retrolunar
