@@ -4,6 +4,33 @@ Minimalist developer
 
 I create simple, elegant solutions.
 
+# Languages/tools/technologies:
+- gnu make, cmake, xmake build systems
+  including cross-compilation
+- c/c++
+- gtk/qt
+- fltk including cross-compilation linux-to-windows
+- rust
+- nim
+- zig
+- lua
+- yuescript
+- html/css/js
+- taskfile (taskfile.dev)
+- github ci including automatic release generation/upload
+- php (2 years of commercial experience)
+- go
+- python
+- bash
+- docker/podman
+- minimalistic css frameworks
+  (ones that work without even giving classes to your html tags)
+- tailwind css
+- vite js/ts
+- emscripten
+
+
+
 # Examples of my work:
 
 ## color palette generator:
@@ -34,6 +61,8 @@ https://lunardoesdev.github.io/portfolio
 Small portfolio site, written with minimalism
 in mind.
 
+## loading and showing tilemap in javascript/kaplay:
+https://lunardoesdev.github.io/infinite-world-generator/
 
 # Contacts
 
