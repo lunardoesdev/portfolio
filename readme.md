@@ -8,6 +8,7 @@ I create simple, elegant solutions.
 - gnu make, cmake, xmake build systems
   including cross-compilation
 - c/c++
+- raylib
 - gtk/qt
 - fltk including cross-compilation linux-to-windows
 - rust
@@ -20,7 +21,7 @@ I create simple, elegant solutions.
 - github ci including automatic release generation/upload
 - php (2 years of commercial experience)
 - go
-- python
+- python (I've used pyinstaller inside wine inside docker!)
 - bash
 - docker/podman
 - minimalistic css frameworks
@@ -28,6 +29,11 @@ I create simple, elegant solutions.
 - tailwind css
 - vite js/ts
 - emscripten
+- jujutsu version control (git compatible)
+- android (mostly ndk-based things like library compilation using xmake/cmake)
+- godot
+- defold
+- basic elixir
 
 
 
