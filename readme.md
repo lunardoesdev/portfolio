@@ -77,6 +77,14 @@ it will download a lot of deps automatically and
 build libi2pd from source statically to be used
 from rust using "safe" api wrapper crate.
 
+## building msx rom
+https://github.com/lunardoesdev/msx-example
+
+I found easy way of building c and assembly
+code for msx without even need of compiling
+cross-compiler! That makes msx development
+a little more accessible and enjoyable.
+
 # Contacts
 
 - Telegram: @retrolunar
