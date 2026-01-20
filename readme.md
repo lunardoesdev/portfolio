@@ -60,13 +60,6 @@ typescript, animations, and you can play it of course
 
 source: https://github.com/lunardoesdev/matchmem
 
-
-## small cute portfolio site
-https://lunardoesdev.github.io/portfolio
-
-Small portfolio site, written with minimalism
-in mind.
-
 ## loading and showing tilemap in javascript/kaplay:
 https://lunardoesdev.github.io/infinite-world-generator/
 
