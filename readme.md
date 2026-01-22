@@ -2,7 +2,7 @@
 **Full-Stack JavaScript Developer | Python & Systems Enthusiast**
 Experienced in building web apps, backends, and cross-platform tools. Proficient in JS/TS ecosystems, with legacy backend work in PHP/SQL.
 
-**📧 lunarlifeburst+work@gmail.com | Telegram: @retrolunar | GitHub: lunardoesdev | Worldwide Remote**
+** Email: lunarlifeburst+work@gmail.com | Telegram: @retrolunar | GitHub: lunardoesdev | Worldwide Remote**
 
 ## Key Skills
 - **Frontend/Full-Stack**: JavaScript/TypeScript, HTML/CSS (Tailwind), Vite, Kaplay
