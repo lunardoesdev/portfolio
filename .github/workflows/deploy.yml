@@ -1,43 +1,41 @@
 name: Deploy README to GitHub Pages
 on:
   push:
-    branches: ["main"]
+    branches: [main]
   workflow_dispatch:
 permissions:
   contents: read
   pages: write
   id-token: write
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
 jobs:
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Setup Pandoc
-        uses: docker://pandoc/latex:latest
-        with:
-          args: --version
-      - name: Render README.md to index.html with Water.css
+      - uses: actions/checkout@v4
+      - name: Install Pandoc
+        run: sudo apt-get update && sudo apt-get install -y pandoc
+      - name: Render README to HTML
         run: |
-          pandoc readme.md -o index.html \
+          pandoc README.md -o index.html \
             --standalone \
-            --css=https://cdn.jsdelivr.net/npm/water.css@2/out/water.css \
             --metadata title="Lunar Portfolio" \
-            --metadata viewport="width=device-width, initial-scale=1" \
-            -V 'header-includes:<link rel="icon" href="data:;base64,iVBORw0KGgo=">' \
-            --self-contained
+            --css=https://cdn.jsdelivr.net/npm/water.css@2/out/water.css
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: "."
+          path: .
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
