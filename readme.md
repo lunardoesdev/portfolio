@@ -1,85 +1,38 @@
 # Lunar
+**Full-Stack JavaScript Developer | Python & Systems Enthusiast**
+Experienced in building web apps, backends, and cross-platform tools. Proficient in JS/TS ecosystems, with legacy backend work in PHP/SQL.
 
-Minimalist developer
+**📧 lunarlifeburst+work@gmail.com | Telegram: @retrolunar | GitHub: lunardoesdev | Worldwide Remote**
 
-I create simple, elegant solutions.
+## Key Skills
+- **Frontend/Full-Stack**: JavaScript/TypeScript, HTML/CSS (Tailwind), Vite, Kaplay
+- **Backend**: Node.js/Express, Python (with PyInstaller/Docker), PHP (legacy backends/SQL)
+- **Databases & Tools**: MySQL/SQL optimization, caching, Docker/Podman, GitHub Actions (CI/CD)
+- **Systems**: C/C++/Rust (bindings), CMake/Make (cross-compilation), Bash, Emscripten (WASM)
+- **Other**: Taskfile, Android NDK, Godot/Defold basics
 
-# Languages/tools/technologies:
-- gnu make, cmake, xmake build systems
-  including cross-compilation
-- c/c++
-- raylib
-- gtk/qt
-- fltk including cross-compilation linux-to-windows
-- rust
-- nim
-- zig
-- lua
-- yuescript
-- html/css/js
-- taskfile (taskfile.dev)
-- github ci including automatic release generation/upload
-- php (2 years of commercial experience)
-- go
-- python (I've used pyinstaller inside wine inside docker!)
-- bash
-- docker/podman
-- minimalistic css frameworks
-  (ones that work without even giving classes to your html tags)
-- tailwind css
-- vite js/ts
-- emscripten
-- jujutsu version control (git compatible)
-- android (mostly ndk-based things like library compilation using xmake/cmake)
-- godot
-- defold
-- basic elixir
+## Experience
+**Freelance/Independent Developer** (2018–Present)
+- Developed PHP backends (5-10 years ago): Custom APIs, SQL databases, query caching/optimization. Details confidential (NDA).
+- JS/TS web projects: Interactive tools with animations, procedural loading, local storage.
+- Cross-platform builds: Rust bindings, CI/CD pipelines for libraries.
 
+## Featured Projects
+**Singerbox: Sing-Box Go Library Bindings & Spawner**   
+Native Go bindings for sing-box: Spawn proxy instances **in-process** (no subprocesses like Throne). Subscription link parser + runtime management for VMess/SS/Hysteria/etc. Embeddable, efficient.  [GitHub](https://github.com/lunardoesdev/singerbox)
 
+**Color Palette Generator**   
+Minimalist JS/TS tool: Procedural generation, click-to-copy, responsive design.
+[Live](https://lunardoesdev.github.io/colorpalette) | [GitHub](https://github.com/lunardoesdev/colorpalette)
 
-# Examples of my work:
+**Memory Matching Game**   
+JS/TS game engine: Animations, matching logic, local storage, fully playable.
+[Live](https://lunardoesdev.github.io/matchmem/site/) | [GitHub](https://github.com/lunardoesdev/matchmem)
 
-## color palette generator:
-https://lunardoesdev.github.io/colorpalette
+**Tilemap World Loader**   
+JS/Kaplay: Efficient tilemap loading/rendering from Tiled format, infinite scrolling base.
+[Live](https://lunardoesdev.github.io/infinite-world-generator/) | [GitHub](https://github.com/lunardoesdev/infinite-world-generator)
 
-refresh to generate, click to copy color code
-
-source: https://github.com/lunardoesdev/colorpalette
-
-## github ci build of libi2pd
-https://github.com/lunardoesdev/libi2pd-builds
-
-I've tried to build libi2pd (not i2pd) with
-c headers to work with.
-
-## memory card matching game
-https://lunardoesdev.github.io/matchmem/site/
-
-minimalistic but shows that I can work with javascript,
-typescript, animations, and you can play it of course
-
-source: https://github.com/lunardoesdev/matchmem
-
-## loading and showing tilemap in javascript/kaplay:
-https://lunardoesdev.github.io/infinite-world-generator/
-
-## rust bindings to libi2pd
-https://github.com/lunardoesdev/i2pd-rust
-
-it will download a lot of deps automatically and
-build libi2pd from source statically to be used
-from rust using "safe" api wrapper crate.
-
-## building msx rom
-https://github.com/lunardoesdev/msx-example
-
-I found easy way of building c and assembly
-code for msx without even need of compiling
-cross-compiler! That makes msx development
-a little more accessible and enjoyable.
-
-# Contacts
-
-- Telegram: @retrolunar
-- Email: lunarlifeburst+work@gmail.com
-- Github: https://github.com/lunardoesdev
+## Open Source Contributions
+- Rust bindings for C libraries (auto-builds/static linking).
+- MSX ROM builds (C/ASM cross-compilation).
