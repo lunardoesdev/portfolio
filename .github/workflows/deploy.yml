@@ -16,7 +16,7 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y pandoc
       - name: Render README to HTML
         run: |
-          pandoc README.md -o index.html \
+          pandoc readme.md -o index.html \
             --standalone \
             --metadata title="Lunar Portfolio" \
             --css=https://cdn.jsdelivr.net/npm/water.css@2/out/water.css
