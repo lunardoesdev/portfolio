@@ -1,6 +1,6 @@
 # Lunar
 **Full-Stack JavaScript Developer | Python & Systems Enthusiast**
-Experienced in building web apps, backends, and cross-platform tools. Proficient in JS/TS ecosystems, with legacy backend work in PHP/SQL.
+Experienced in building web apps, backends, and cross-platform tools. Proficient in JS/TS ecosystems, with legacy backend work in PHP/SQL. Not restricted to single programming language or tech stack.
 
 **Email: lunarlifeburst+work@gmail.com | Telegram: @retrolunar | GitHub: lunardoesdev | Worldwide Remote**
 
@@ -11,11 +11,15 @@ Experienced in building web apps, backends, and cross-platform tools. Proficient
 - **Systems**: C/C++/Rust (bindings), CMake/Make (cross-compilation), Bash, Emscripten (WASM)
 - **Other**: Taskfile, Android NDK, Godot/Defold basics
 
-## Experience
-**Freelance/Independent Developer** (2018–Present)
-- Developed PHP backends (5-10 years ago): Custom APIs, SQL databases, query caching/optimization. Details confidential (NDA).
-- JS/TS web projects: Interactive tools with animations, procedural loading, local storage.
-- Cross-platform builds: Rust bindings, CI/CD pipelines for libraries.
+## Commercial Experience
+
+**PHP Developer (legacy, NDA/closed-source) — ~1.5 years (approx. 2015–2016)**
+- Developed and maintained PHP backend features for internal/client web apps
+- Worked with SQL databases (CRUD, indexing basics, query tuning)
+- Implemented caching where appropriate and reduced repeated DB load
+- Fixed bugs, shipped changes under deadlines
+
+After early commercial PHP experience, continued development through independent projects and open-source (see featured projects); currently focusing on Python/Node.js and actively interviewing.
 
 ## Featured Projects
 **Radihypn: C++/gtk3 simple internet radio with tray icon**
