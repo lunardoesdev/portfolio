@@ -31,8 +31,9 @@ Native Go bindings for sing-box: Spawn proxy instances **in-process** (no subpro
 
 **Color Palette Generator**   
 Minimalist JS/TS tool: Procedural generation, click-to-copy, responsive design.
-[Live](https://lunardoesdev.github.io/colorpalette) | [GitHub](https://github.com/lunardoesdev/colorpalette)
-[Screenshot](./screenshots/colorpalette.png)
+[Live](https://lunardoesdev.github.io/colorpalette) 
+| [GitHub](https://github.com/lunardoesdev/colorpalette) 
+| [Screenshot](./screenshots/colorpalette.png)
 
 
 **Memory Matching Game**   
