@@ -24,7 +24,7 @@ After early commercial PHP experience, continued development through independent
 ## Featured Projects
 **Radihypn: C++/gtk3 simple internet radio with tray icon**
 [GitHub](https://github.com/radihypn/radihypn)
-![](./screenshots/radihypn.png)
+[Screenshot](./screenshots/radihypn.png)
 
 **Singerbox: Sing-Box Go Library Bindings & Spawner**   
 Native Go bindings for sing-box: Spawn proxy instances **in-process** (no subprocesses like Throne). Subscription link parser + runtime management for VMess/SS/Hysteria/etc. Embeddable, efficient.  [GitHub](https://github.com/lunardoesdev/singerbox)
@@ -32,7 +32,7 @@ Native Go bindings for sing-box: Spawn proxy instances **in-process** (no subpro
 **Color Palette Generator**   
 Minimalist JS/TS tool: Procedural generation, click-to-copy, responsive design.
 [Live](https://lunardoesdev.github.io/colorpalette) | [GitHub](https://github.com/lunardoesdev/colorpalette)
-![](./screenshots/colorpalette.png)
+[Screenshot](./screenshots/colorpalette.png)
 
 
 **Memory Matching Game**   
@@ -42,12 +42,12 @@ JS/TS game engine: Animations, matching logic, local storage, fully playable.
 **Tilemap World Loader**   
 JS/Kaplay: Efficient tilemap loading/rendering from Tiled format, infinite scrolling base.
 [Live](https://lunardoesdev.github.io/infinite-world-generator/) | [GitHub](https://github.com/lunardoesdev/infinite-world-generator)
-![](./screenshots/tilemap-loader.png)
+[Screenshot](./screenshots/tilemap-loader.png)
 
 
 ## Open Source Contributions
 - MSX ROM builds (discovered comfortable reproducible way of C/ASM cross-compilation). [GitHub](https://github.com/lunardoesdev/msx-example)
-![](./screenshots/msx-hello-world.jpg)
+![](./screenshots/msx-hello-world.svg)
 - Some small help for [i2pd] and related tools like [continious builds for i2pd-tools](https://github.com/PurpleI2P/i2pd-tools/releases/tag/continuous) and [dinit service example for i2pd](https://github.com/PurpleI2P/i2pd/blob/openssl/contrib/dinit/i2pd)
 - Rust bindings for C libraries (auto-builds/static linking). [GitHub](https://github.com/lunardoesdev/i2pd-rust)
 - Tried to pack libi2pd into separate shared library to link with, including build scripts [GitHub](https://github.com/lunardoesdev/libi2pd-builds)
