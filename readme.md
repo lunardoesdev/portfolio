@@ -46,8 +46,7 @@ JS/Kaplay: Efficient tilemap loading/rendering from Tiled format, infinite scrol
 
 
 ## Open Source Contributions
-- MSX ROM builds (discovered comfortable reproducible way of C/ASM cross-compilation). [GitHub](https://github.com/lunardoesdev/msx-example)
-![](./screenshots/msx-hello-world.svg)
+- MSX ROM builds (discovered comfortable reproducible way of C/ASM cross-compilation). [GitHub](https://github.com/lunardoesdev/msx-example) [Screenshot](./screenshots/msx-hello-world.svg)
 - Some small help for [i2pd] and related tools like [continious builds for i2pd-tools](https://github.com/PurpleI2P/i2pd-tools/releases/tag/continuous) and [dinit service example for i2pd](https://github.com/PurpleI2P/i2pd/blob/openssl/contrib/dinit/i2pd)
 - Rust bindings for C libraries (auto-builds/static linking). [GitHub](https://github.com/lunardoesdev/i2pd-rust)
 - Tried to pack libi2pd into separate shared library to link with, including build scripts [GitHub](https://github.com/lunardoesdev/libi2pd-builds)
