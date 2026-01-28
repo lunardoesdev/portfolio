@@ -37,7 +37,7 @@ Minimalist JS/TS tool: Procedural generation, click-to-copy, responsive design.
 
 
 **Memory Matching Game**   
-JS/TS game engine: Animations, matching logic, local storage, fully playable.
+JS/Kaplay game engine: Animations, matching logic, local storage, fully playable.
 [Live](https://lunardoesdev.github.io/matchmem/site/) | [GitHub](https://github.com/lunardoesdev/matchmem)
 
 **Tilemap World Loader**   
