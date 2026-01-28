@@ -22,7 +22,7 @@ Experienced in building web apps, backends, and cross-platform tools. Proficient
 After early commercial PHP experience, continued development through independent projects and open-source (see featured projects); currently focusing on Python/Node.js and actively interviewing.
 
 ## Featured Projects
-**This portfolio site**
+**This portfolio site**   
 Under .github/workflows you can see github action that deploys
 this markdown to github pages
 
