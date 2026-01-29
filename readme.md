@@ -33,6 +33,10 @@ this markdown to github pages
 **Singerbox: Sing-Box Go Library Bindings & Spawner**   
 Native Go bindings for sing-box: Spawn proxy instances **in-process** (no subprocesses like Throne). Subscription link parser + runtime management for VMess/SS/Hysteria/etc. Embeddable, efficient.  [GitHub](https://github.com/lunardoesdev/singerbox)
 
+**Nextjs todo app: probably each portfolio must have it?**
+![Screenshot](https://github.com/lunardoesdev/nextjstodo/raw/main/screenshot/screenshot.png)  
+[GitHub](https://github.com/lunardoesdev/nextjstodo)
+
 **Color Palette Generator**   
 Minimalist JS/TS tool: Procedural generation, click-to-copy, responsive design.
 [Live](https://lunardoesdev.github.io/colorpalette) 
