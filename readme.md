@@ -38,10 +38,13 @@ I've used nextjs, tsx, tailwind.
 [GitHub](https://github.com/lunardoesdev/nextjstodo)
 ![Screenshot](https://github.com/lunardoesdev/nextjstodo/raw/main/screenshot/screenshot.png)
 
-*astrojs todo app*
+**astrojs todo app**
+astrojs based fully static todo app deployed to Github Pages
 [github](https://github.com/lunardoesdev/astrojstodo)
 | [live](https://lunardoesdev.github.io/astrojstodo/)
 ![Screenshot](https://raw.githubusercontent.com/lunardoesdev/astrojstodo/refs/heads/main/screenshot.png)
+
+
 
 **Color Palette Generator**   
 Minimalist JS/TS tool: Procedural generation, click-to-copy, responsive design.
