@@ -38,13 +38,18 @@ I've used nextjs, tsx, tailwind.
 [GitHub](https://github.com/lunardoesdev/nextjstodo)
 ![Screenshot](https://github.com/lunardoesdev/nextjstodo/raw/main/screenshot/screenshot.png)
 
-**astrojs todo app**
+**NuxtJS todo app: another sample app for portfolio**
+This one is single-user unlike previous one that has proper registration
+and authentication, but it still demonstrates client-server interaction
+and my ability to work with nuxtjs, vue and tailwind
+[github](https://github.com/lunardoesdev/nuxtjstodo)
+![Screenshot](https://github.com/lunardoesdev/nuxtjstodo/raw/main/screenshot.png)
+
+**AstroJS todo app**
 astrojs based fully static todo app deployed to Github Pages
 [github](https://github.com/lunardoesdev/astrojstodo)
 | [live](https://lunardoesdev.github.io/astrojstodo/)
 ![Screenshot](https://raw.githubusercontent.com/lunardoesdev/astrojstodo/refs/heads/main/screenshot.png)
-
-
 
 **Color Palette Generator**   
 Minimalist JS/TS tool: Procedural generation, click-to-copy, responsive design.
