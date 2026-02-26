@@ -7,6 +7,7 @@ when the project demands it.
 
 Email: lunarlifeburst+work@gmail.com
 Telegram: @retrolunar | GitHub: lunardoesdev
+
 Worldwide Remote
 
 ## Core Skills
