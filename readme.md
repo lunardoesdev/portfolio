@@ -1,77 +1,56 @@
 # Lunar
-**Full-Stack JavaScript Developer | Python & Systems Enthusiast**
-Experienced in building web apps, backends, and cross-platform tools. Proficient in JS/TS ecosystems, with legacy backend work in PHP/SQL. Not restricted to single programming language or tech stack.
+**Systems & Networking Developer | Go, Rust, C/C++, JS/TS**
+Building low-level tools, protocol bindings, and cross-platform
+applications. Background in proxy infrastructure, encrypted
+networking, and native desktop. Comfortable across the stack
+when the project demands it.
 
-**Email: lunarlifeburst+work@gmail.com | Telegram: @retrolunar | GitHub: lunardoesdev | Worldwide Remote**
+Email: lunarlifeburst+work@gmail.com
+Telegram: @retrolunar | GitHub: lunardoesdev
+Worldwide Remote
 
-## Key Skills
-- **Frontend/Full-Stack**: JavaScript/TypeScript, HTML/CSS (Tailwind), Vite, Kaplay
-- **Backend**: Node.js/Express, Python (with PyInstaller/Docker), PHP (legacy backends/SQL)
-- **Databases & Tools**: MySQL/SQL optimization, caching, Docker/Podman, GitHub Actions (CI/CD)
-- **Systems**: C/C++/Rust (bindings), CMake/Make (cross-compilation), Bash, Emscripten (WASM)
-- **Other**: Taskfile, Android NDK, Godot/Defold basics
-
-## Commercial Experience
-
-**PHP Developer (legacy, NDA/closed-source) — ~1.5 years (approx. 2015–2016)**
-- Developed and maintained PHP backend features for internal/client web apps
-- Worked with SQL databases (CRUD, indexing basics, query tuning)
-- Implemented caching where appropriate and reduced repeated DB load
-- Fixed bugs, shipped changes under deadlines
-
-After early commercial PHP experience, continued development through independent projects and open-source (see featured projects); currently focusing on Python/Node.js and actively interviewing.
+## Core Skills
+- Systems: Go, Rust, C/C++, CMake/Make, cross-compilation,
+  static linking, WASM (Emscripten)
+- Networking & Infra: proxy protocols (VMess/SS/Hysteria),
+  WireGuard, Docker/Podman, CI/CD (GitHub Actions)
+- Web: Node.js, TypeScript, Vite, Tailwind, Tauri
+- Data: SQLite (w/ FTS5), MySQL, caching strategies
+- Scripting: Python, Bash, Nim
 
 ## Featured Projects
-**This portfolio site**   
-Under .github/workflows you can see github action that deploys
-this markdown to github pages
 
-**Radihypn: C++/gtk3 simple internet radio with tray icon**
+**Singerbox** — Go bindings for sing-box proxy engine
+In-process instance spawning from any share link (VLESS,
+VMess, Shadowsocks, Hysteria). Zero-config defaults,
+clean teardown. Embeddable, no subprocesses.
+[GitHub](https://github.com/lunardoesdev/singerbox)
+
+**Radihypn** — C++/GTK3 internet radio with tray icon
+Lightweight native Linux desktop app. Stream playback,
+system tray integration, minimal resource footprint.
 [GitHub](https://github.com/radihypn/radihypn)
-| [Screenshot](./screenshots/radihypn.png)
-
-**Singerbox: Sing-Box Go Library Bindings & Spawner**   
-Native Go bindings for sing-box: Spawn proxy instances **in-process** (no subprocesses like Throne). Subscription link parser + runtime management for VMess/SS/Hysteria/etc. Embeddable, efficient.  [GitHub](https://github.com/lunardoesdev/singerbox)
-
-**Nextjs todo app: probably each portfolio must have it?**   
-I've used nextjs, tsx, tailwind.
-[GitHub](https://github.com/lunardoesdev/nextjstodo)
-![Screenshot](https://github.com/lunardoesdev/nextjstodo/raw/main/screenshot/screenshot.png)
-
-**NuxtJS todo app: another sample app for portfolio**
-This one is single-user unlike previous one that has proper registration
-and authentication, but it still demonstrates client-server interaction
-and my ability to work with nuxtjs, vue and tailwind
-[github](https://github.com/lunardoesdev/nuxtjstodo)
-![Screenshot](https://github.com/lunardoesdev/nuxtjstodo/raw/main/screenshot.png)
-
-**AstroJS todo app**
-astrojs based fully static todo app deployed to Github Pages
-[github](https://github.com/lunardoesdev/astrojstodo)
-| [live](https://lunardoesdev.github.io/astrojstodo/)
-![Screenshot](https://raw.githubusercontent.com/lunardoesdev/astrojstodo/refs/heads/main/screenshot.png)
-
-**Color Palette Generator**   
-Minimalist JS/TS tool: Procedural generation, click-to-copy, responsive design.
-[Live](https://lunardoesdev.github.io/colorpalette) 
-| [GitHub](https://github.com/lunardoesdev/colorpalette) 
-| [Screenshot](./screenshots/colorpalette.png)
-
-
-**Memory Matching Game**   
-JS/Kaplay game engine: Animations, matching logic, local storage, fully playable.
-[Live](https://lunardoesdev.github.io/matchmem/site/) | [GitHub](https://github.com/lunardoesdev/matchmem)
-| [Screenshot](https://raw.githubusercontent.com/lunardoesdev/matchmem/refs/heads/main/screenshot.png)
-
-**Tilemap World Loader**   
-JS/Kaplay: Efficient tilemap loading/rendering from Tiled format, infinite scrolling base.
-[Live](https://lunardoesdev.github.io/infinite-world-generator/) | [GitHub](https://github.com/lunardoesdev/infinite-world-generator)
-| [Screenshot](./screenshots/tilemap-loader.png)
-
 
 ## Open Source Contributions
-- MSX ROM builds (discovered comfortable reproducible way of C/ASM cross-compilation). [GitHub](https://github.com/lunardoesdev/msx-example) | [Screenshot](./screenshots/msx-hello-world.svg)
-- Some small help for [i2pd] and related tools like [continious builds for i2pd-tools](https://github.com/PurpleI2P/i2pd-tools/releases/tag/continuous) and [dinit service example for i2pd](https://github.com/PurpleI2P/i2pd/blob/openssl/contrib/dinit/i2pd)
-- Rust bindings for C libraries (auto-builds/static linking). [GitHub](https://github.com/lunardoesdev/i2pd-rust)
-- Tried to pack libi2pd into separate shared library to link with, including build scripts [GitHub](https://github.com/lunardoesdev/libi2pd-builds)
-- Nim library that builds sqlite under the hood, mainly to use sqlite with FTS5 in Nim [package in Nimble Directory](https://www.nimble.directory/pkg/niqlite)
+- **i2pd ecosystem**: continuous builds for i2pd-tools,
+  dinit service config (merged upstream), Rust bindings
+  with automated static linking
+- **libi2pd**: build scripts for shared library packaging
+- **MSX cross-compilation**: reproducible C/ASM ROM builds
+- **niqlite**: Nim library wrapping SQLite with FTS5 support
+  [Nimble Directory](https://www.nimble.directory/pkg/niqlite)
+
+## Commercial
+**PHP Developer — ~1.5 years (2015–2016, NDA)**
+Backend features, SQL optimization, caching. Shipped
+under deadlines. Legacy work; current focus is systems
+and networking tooling.
+
+## Experiments
+**Fruit Friction** — Physics-based puzzle on Kaplay.js
+where shape and friction matter.
+[GitHub](https://github.com/lunardoesdev/fruit-friction)
+
+**Tilemap World Loader** — Efficient tilemap rendering
+from Tiled format, infinite scrolling base.
+[GitHub](https://github.com/lunardoesdev/infinite-world-generator)
