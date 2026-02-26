@@ -1,14 +1,17 @@
 # Lunar
 **Systems & Networking Developer | Go, Rust, C/C++, JS/TS**
+
 Building low-level tools, protocol bindings, and cross-platform
 applications. Background in proxy infrastructure, encrypted
 networking, and native desktop. Comfortable across the stack
 when the project demands it.
 
-Email: lunarlifeburst+work@gmail.com
-Telegram: @retrolunar | GitHub: lunardoesdev
+- Email: **lunarlifeburst+work@gmail.com**
+- Telegram: **@retrolunar**
+- GitHub: **lunardoesdev**
 
-Worldwide Remote
+### Worldwide Remote
+- Timezone: GMT+10
 
 ## Core Skills
 - Systems: Go, Rust, C/C++, CMake/Make, cross-compilation,
