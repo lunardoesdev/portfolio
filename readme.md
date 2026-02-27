@@ -1,4 +1,4 @@
-[中文](translations/README.zh.md) | [Español](translations/README.es.md) | [Русский](translations/README.ru.md) | [日本語](translations/README.ja.md)
+[中文](translations/README.zh) | [Español](translations/README.es) | [Русский](translations/README.ru) | [日本語](translations/README.ja)
 
 # Lunar
 **Systems & Networking Developer | Go, Rust, C/C++, JS/TS**
