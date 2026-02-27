@@ -11,6 +11,7 @@ y escritorio nativo. Cómodo en toda la pila cuando el proyecto lo requiere.
 
 ### Trabajo Remoto Mundial
 - Zona horaria: GMT+10
+- Idiomas: inglés, ruso
 
 ## Habilidades Principales
 - Sistemas: Go, Rust, C/C++, CMake/Make, compilación cruzada,

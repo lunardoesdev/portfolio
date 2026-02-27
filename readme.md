@@ -1,4 +1,4 @@
-[中文](translations/README.zh.md) | [Español](translations/README.es.md) | [Русский](translations/README.ru.md) | [日本語](translations/README.ja.md)
+[中文](translations/README.zh.md) | [Español](translations/README.es.md) | [Русский](translations/README.ru.md) | [日本語](translations/README.ja.md) | [한국어](translations/README.ko.md)
 
 # Lunar
 **Systems & Networking Developer | Go, Rust, C/C++, JS/TS**
@@ -14,6 +14,7 @@ when the project demands it.
 
 ### Worldwide Remote
 - Timezone: GMT+10
+- Languages: English, Russian
 
 ## Core Skills
 - Systems: Go, Rust, C/C++, CMake/Make, cross-compilation,
