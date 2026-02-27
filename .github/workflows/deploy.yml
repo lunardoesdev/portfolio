@@ -20,6 +20,15 @@ jobs:
             --standalone \
             --metadata title="Lunar Portfolio" \
             --css=https://cdn.jsdelivr.net/npm/water.css@2/out/water.css
+          sed -i 's|translations/README\.\([a-z]*\)\.md|translations/README.\1.html|g' index.html
+          for f in translations/README.*.md; do
+            lang="${f#translations/README.}"
+            lang="${lang%.md}"
+            pandoc "$f" -o "translations/README.${lang}.html" \
+              --standalone \
+              --metadata title="Lunar Portfolio" \
+              --css=https://cdn.jsdelivr.net/npm/water.css@2/out/water.css
+          done
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
