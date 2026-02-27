@@ -1,7 +1,7 @@
 [中文](translations/README.zh.md) | [Español](translations/README.es.md) | [Русский](translations/README.ru.md) | [日本語](translations/README.ja.md) | [한국어](translations/README.ko.md)
 
 # Lunar
-**Systems & Networking Developer | Go, Rust, C/C++, JS/TS, Zig**
+**Systems & Networking Developer | C/C++, Go, Rust, JavaScript/TypeScript, Zig**
 
 Building low-level tools, protocol bindings, and cross-platform
 applications. Background in proxy infrastructure, encrypted
