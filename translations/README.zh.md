@@ -1,13 +1,13 @@
 # Lunar
-**系统与网络开发者 | Go, Rust, C/C++, JS/TS**
+**系统与网络开发者 | C/C++, Go, Rust, JavaScript/TypeScript, Zig**
 
 专注于构建底层工具、协议绑定和跨平台应用程序。
 拥有代理基础设施、加密网络和原生桌面开发背景。
 在项目需要时，能够舒适地跨越整个技术栈工作。
 
-- 邮箱：**lunarlifeburst+work@gmail.com**
-- Telegram：**@retrolunar**
-- GitHub：**lunardoesdev**
+- 邮箱：[lunarlifeburst+work@gmail.com](mailto:lunarlifeburst+work@gmail.com)
+- Telegram：[@retrolunar](https://t.me/retrolunar)
+- GitHub：[https://github.com/lunardoesdev](https://github.com/lunardoesdev)
 
 ### 全球远程工作
 - 时区：GMT+10
@@ -39,6 +39,8 @@
 - **i2pd 生态系统**：为 i2pd-tools 持续构建,
   dinit 服务配置（已合并上游），Rust 绑定
   及自动静态链接
+- **PurpleI2P/i2pd**：成功合并拉取请求
+  [#2338](https://github.com/PurpleI2P/i2pd/pull/2338)
 - **libi2pd**：共享库打包的构建脚本
 - **MSX 交叉编译**：可重现的 C/ASM ROM 构建
 - **niqlite**：封装 SQLite 并支持 FTS5 的 Nim 库

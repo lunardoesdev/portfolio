@@ -8,9 +8,9 @@ applications. Background in proxy infrastructure, encrypted
 networking, and native desktop. Comfortable across the stack
 when the project demands it.
 
-- Email: **lunarlifeburst+work@gmail.com**
-- Telegram: **@retrolunar**
-- GitHub: **lunardoesdev**
+- Email: [lunarlifeburst+work@gmail.com](mailto:lunarlifeburst+work@gmail.com)
+- Telegram: [@retrolunar](https://t.me/retrolunar)
+- GitHub: [https://github.com/lunardoesdev](https://github.com/lunardoesdev)
 
 ### Worldwide Remote
 - Timezone: GMT+10
@@ -42,6 +42,8 @@ system tray integration, minimal resource footprint.
 - **i2pd ecosystem**: continuous builds for i2pd-tools,
   dinit service config (merged upstream), Rust bindings
   with automated static linking
+- **PurpleI2P/i2pd**: successfully merged pull request
+  [#2338](https://github.com/PurpleI2P/i2pd/pull/2338)
 - **libi2pd**: build scripts for shared library packaging
 - **MSX cross-compilation**: reproducible C/ASM ROM builds
 - **niqlite**: Nim library wrapping SQLite with FTS5 support

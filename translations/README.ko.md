@@ -1,14 +1,14 @@
 # Lunar
-**시스템 및 네트워킹 개발자 | Go, Rust, C/C++, JS/TS**
+**시스템 및 네트워킹 개발자 | C/C++, Go, Rust, JavaScript/TypeScript, Zig**
 
 저수준 도구, 프로토콜 바인딩, 크로스 플랫폼
 애플리케이션 개발을 전문으로 합니다. 프록시 인프라, 암호화된
 네트워킹, 네이티브 데스크톱 개발 경험 보유.
 프로젝트 요구에 따라 전체 스택을 유연하게 다룹니다.
 
-- 이메일: **lunarlifeburst+work@gmail.com**
-- Telegram: **@retrolunar**
-- GitHub: **lunardoesdev**
+- 이메일: [lunarlifeburst+work@gmail.com](mailto:lunarlifeburst+work@gmail.com)
+- Telegram: [@retrolunar](https://t.me/retrolunar)
+- GitHub: [https://github.com/lunardoesdev](https://github.com/lunardoesdev)
 
 ### 전 세계 원격 근무
 - 타임존: GMT+10
@@ -40,6 +40,8 @@
 - **i2pd 생태계**: i2pd-tools 지속적 빌드,
   dinit 서비스 설정 (업스트림 머지됨), 자동 정적 링킹을 포함한
   Rust 바인딩
+- **PurpleI2P/i2pd**: 풀 리퀘스트 머지 성공
+  [#2338](https://github.com/PurpleI2P/i2pd/pull/2338)
 - **libi2pd**: 공유 라이브러리 패키징용 빌드 스크립트
 - **MSX 크로스 컴파일**: 재현 가능한 C/ASM ROM 빌드
 - **niqlite**: FTS5를 지원하는 SQLite 래퍼 Nim 라이브러리

@@ -1,14 +1,14 @@
 # Lunar
-**Разработчик систем и сетей | Go, Rust, C/C++, JS/TS**
+**Разработчик систем и сетей | C/C++, Go, Rust, JavaScript/TypeScript, Zig**
 
 Разрабатываю низкоуровневые инструменты, привязки протоколов и кроссплатформенные
 приложения. Опыт в прокси-инфраструктуре, зашифрованных сетях
 и нативном десктопе. Комфортно работаю на всех уровнях стека,
 когда проект этого требует.
 
-- Email: **lunarlifeburst+work@gmail.com**
-- Telegram: **@retrolunar**
-- GitHub: **lunardoesdev**
+- Email: [lunarlifeburst+work@gmail.com](mailto:lunarlifeburst+work@gmail.com)
+- Telegram: [@retrolunar](https://t.me/retrolunar)
+- GitHub: [https://github.com/lunardoesdev](https://github.com/lunardoesdev)
 
 ### Удалённая работа по всему миру
 - Часовой пояс: GMT+10
@@ -40,6 +40,8 @@ VMess, Shadowsocks, Hysteria). Нулевая конфигурация по ум
 - **Экосистема i2pd**: непрерывные сборки для i2pd-tools,
   конфиг сервиса dinit (влит в апстрим), Rust-привязки
   с автоматической статической линковкой
+- **PurpleI2P/i2pd**: успешно влитый pull request
+  [#2338](https://github.com/PurpleI2P/i2pd/pull/2338)
 - **libi2pd**: скрипты сборки для упаковки в shared library
 - **MSX кросс-компиляция**: воспроизводимые C/ASM ROM-сборки
 - **niqlite**: Nim-библиотека, оборачивающая SQLite с поддержкой FTS5

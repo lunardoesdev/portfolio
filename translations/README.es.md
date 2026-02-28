@@ -1,13 +1,13 @@
 # Lunar
-**Desarrollador de Sistemas y Redes | Go, Rust, C/C++, JS/TS**
+**Desarrollador de Sistemas y Redes | C/C++, Go, Rust, JavaScript/TypeScript, Zig**
 
 Construyo herramientas de bajo nivel, bindings de protocolos y aplicaciones
 multiplataforma. Experiencia en infraestructura de proxies, redes cifradas
 y escritorio nativo. Cómodo en toda la pila cuando el proyecto lo requiere.
 
-- Email: **lunarlifeburst+work@gmail.com**
-- Telegram: **@retrolunar**
-- GitHub: **lunardoesdev**
+- Email: [lunarlifeburst+work@gmail.com](mailto:lunarlifeburst+work@gmail.com)
+- Telegram: [@retrolunar](https://t.me/retrolunar)
+- GitHub: [https://github.com/lunardoesdev](https://github.com/lunardoesdev)
 
 ### Trabajo Remoto Mundial
 - Zona horaria: GMT+10
@@ -39,6 +39,8 @@ integración con la bandeja del sistema, huella de recursos mínima.
 - **Ecosistema i2pd**: builds continuos para i2pd-tools,
   configuración de servicio dinit (integrada upstream), bindings en Rust
   con enlace estático automatizado
+- **PurpleI2P/i2pd**: pull request fusionado con éxito
+  [#2338](https://github.com/PurpleI2P/i2pd/pull/2338)
 - **libi2pd**: scripts de build para empaquetado de biblioteca compartida
 - **Compilación cruzada MSX**: builds reproducibles de ROM en C/ASM
 - **niqlite**: librería Nim que envuelve SQLite con soporte FTS5
