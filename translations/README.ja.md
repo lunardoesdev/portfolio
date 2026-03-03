@@ -1,65 +1,52 @@
+[English](../readme.md) | [中文](README.zh.md) | [Español](README.es.md) | [Русский](README.ru.md) | [日本語](README.ja.md) | [한국어](README.ko.md)
+
 # Lunar
-**システム・ネットワーク開発者 | C/C++, Go, Rust, JavaScript/TypeScript, Zig**
+**システム＆ネットワーク開発者 | C/C++, Go, Rust, JavaScript/TypeScript, Zig**
 
-低レベルツール、プロトコルバインディング、クロスプラットフォーム
-アプリケーションの構築が専門です。プロキシインフラ、暗号化
-ネットワーク、ネイティブデスクトップの開発経験あり。
-プロジェクトの要件に応じて、スタック全体を柔軟に対応できます。
+低レイヤーのツール、プロトコルバインディング、クロスプラットフォームアプリケーションの開発を専門としています。プロキシインフラストラクチャ、暗号化ネットワーク、ネイティブデスクトップアプリのバックグラウンドを持っています。プロジェクトの要件に応じて、技術スタックのあらゆる層で柔軟に対応できます。
 
-- メール：[lunarlifeburst+work@gmail.com](mailto:lunarlifeburst+work@gmail.com)
-- Telegram：[@retrolunar](https://t.me/retrolunar)
-- GitHub：[https://github.com/lunardoesdev](https://github.com/lunardoesdev)
+- メール: [lunarlifeburst+work@gmail.com](mailto:lunarlifeburst+work@gmail.com)
+- Telegram: [@retrolunar](https://t.me/retrolunar)
+- GitHub: [https://github.com/lunardoesdev](https://github.com/lunardoesdev)
 
-### 全世界リモート対応
-- タイムゾーン：GMT+10
-- 言語：英語、ロシア語
+### フルリモート勤務
+- タイムゾーン: GMT+10
+- 言語: 英語、ロシア語
 
 ## コアスキル
-- システム：Go, Rust, C/C++, CMake/Make, クロスコンパイル,
-  スタティックリンク, WASM (Emscripten)
-- ネットワーク・インフラ：プロキシプロトコル (VMess/SS/Hysteria),
-  WireGuard, Docker/Podman, CI/CD (GitHub Actions)
-- Web：Node.js, TypeScript, Vite, Tailwind, Tauri
-- データ：SQLite (FTS5対応), MySQL, キャッシュ戦略
-- スクリプティング：Python, Bash, Nim
+- **システム:** Go, Rust, C/C++, CMake/Make, クロスコンパイル, 静的リンク, WASM (Emscripten)
+- **ネットワーク・インフラ:** プロキシプロトコル (VMess/SS/Hysteria), WireGuard, Docker/Podman, CI/CD (GitHub Actions)
+- **Web:** Node.js, TypeScript, Vite, Tailwind, Tauri
+- **データ:** SQLite (FTS5対応), MySQL, キャッシュ戦略
+- **スクリプト:** Python, Bash, Nim
 
-## 注目プロジェクト
+## 主要プロジェクト
 
 **Singerbox** — sing-boxプロキシエンジンのGoバインディング
-任意の共有リンク（VLESS、VMess、Shadowsocks、Hysteria）から
-インプロセスでインスタンスを起動。ゼロ設定デフォルト、
-クリーンなシャットダウン。サブプロセス不要で組み込み可能。
+任意の共有リンク（VLESS, VMess, Shadowsocks, Hysteria）から同一プロセス内でインスタンスを生成。ゼロコンフィグなデフォルト設定とクリーンな終了処理。サブプロセス不要で、システムへの組み込みが容易。
 [GitHub](https://github.com/lunardoesdev/singerbox)
 
-**Radihypn** — C++/GTK3製トレイアイコン付きインターネットラジオ
-軽量なLinuxネイティブデスクトップアプリ。ストリーム再生、
-システムトレイ統合、リソース使用量を最小限に抑えた設計。
+**Radihypn** — トレイアイコン付きC++/GTK3インターネットラジオ
+軽量なLinux向けネイティブデスクトップアプリ。ストリーミング再生、システムトレイ連携、最小限のリソース消費を実現。
 [GitHub](https://github.com/radihypn/radihypn)
 
 ## オープンソースへの貢献
-- **i2pdエコシステム**：i2pd-toolsの継続的ビルド,
-  dinitサービス設定（上流にマージ済み）、自動スタティックリンク付き
-  Rustバインディング
-- **PurpleI2P/i2pd**：プルリクエストのマージに成功
-  [#2338](https://github.com/PurpleI2P/i2pd/pull/2338)
-- **libi2pd**：共有ライブラリパッケージング用ビルドスクリプト
-- **MSXクロスコンパイル**：再現可能なC/ASM ROMビルド
-- **niqlite**：FTS5対応SQLiteをラップするNimライブラリ
+- **i2pdエコシステム:** i2pd-toolsの継続的ビルドの構築、dinitサービス設定の追加（アップストリームにマージ済）、自動静的リンク付きのRustバインディングの開発。
+- **PurpleI2P/i2pd:** プルリクエスト [#2338](https://github.com/PurpleI2P/i2pd/pull/2338) が正常にマージされました。
+- **libi2pd:** 共有ライブラリのパッケージング用ビルドスクリプトの作成。
+- **MSX クロスコンパイル:** 再現性のあるC/ASM ROMビルド。
+- **niqlite:** FTS5をサポートするSQLiteのNimラッパーライブラリ。
   [Nimble Directory](https://www.nimble.directory/pkg/niqlite)
-- **notetask**（フォーク）：希望する日時フォーマットを強制設定
+- **notetask** (フォーク): 任意のフォーマットで日時を強制的に設定。
   [GitHub](https://github.com/lunardoesdev/notetask)
 
-## 商業経験
-**PHP開発者 — 約1.5年（2015〜2016年、NDA）**
-バックエンド機能開発、SQLの最適化、キャッシュ処理。
-締め切りに間に合わせて納品。過去の経験であり、
-現在のメインはシステムおよびネットワークツールの開発です。
+## 業務経験
+**PHPデベロッパー — 約1.5年 (2015–2016, NDA締結済み)**
+バックエンドの機能開発、SQLの最適化、キャッシュ処理を担当。厳しい期限内での製品リリースを達成しました。過去の経歴であり、現在の焦点はシステムおよびネットワークツールにあります。
 
-## 実験的プロジェクト
-**Fruit Friction** — Kaplay.jsを使った物理パズルゲーム。
-形状と摩擦が勝敗を左右します。
+## 実験的なプロジェクト
+**Fruit Friction** — Kaplay.jsで作られた物理ベースのパズルゲーム。形状と摩擦が鍵となります。
 [GitHub](https://github.com/lunardoesdev/fruit-friction)
 
-**Tilemap World Loader** — Tiledフォーマットからの効率的な
-タイルマップレンダリング、無限スクロールの基盤実装。
+**Tilemap World Loader** — Tiledフォーマットからの効率的なタイルマップレンダリング。無限スクロールの基礎として機能します。
 [GitHub](https://github.com/lunardoesdev/infinite-world-generator)
