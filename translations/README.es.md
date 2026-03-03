@@ -44,6 +44,14 @@ Aplicación nativa y ligera de escritorio para Linux. Reproducción en streaming
 **Desarrollador PHP — ~1.5 años (2015–2016, bajo acuerdo de confidencialidad)**
 Desarrollo de funcionalidades backend, optimización de SQL y caché. Entregas cumpliendo plazos estrictos. Trabajo antiguo; enfoque actual en herramientas de sistemas y redes.
 
+## Scripts y Utilidades
+**backup-my-git** — Script en Guile para crear copias de seguridad de repositorios Git.
+[GitHub](https://github.com/lunardoesdev/backup-my-git)
+
+**yt-dlp-tools** — Wrappers de yt-dlp para descargar podcasts y audio de forma conveniente
+(ideal para reproductores MP3, con portadas integradas y esquemas de nomenclatura inteligentes).
+[GitHub](https://github.com/lunardoesdev/yt-dlp-tools)
+
 ## Experimentos
 **Fruit Friction** — Puzzle basado en físicas con Kaplay.js donde la forma y la fricción son claves.
 [GitHub](https://github.com/lunardoesdev/fruit-friction)

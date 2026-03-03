@@ -44,6 +44,14 @@
 **PHPデベロッパー — 約1.5年 (2015–2016, NDA締結済み)**
 バックエンドの機能開発、SQLの最適化、キャッシュ処理を担当。厳しい期限内での製品リリースを達成しました。過去の経歴であり、現在の焦点はシステムおよびネットワークツールにあります。
 
+## スクリプトとユーティリティ
+**backup-my-git** — GitリポジトリをバックアップするためのGuileスクリプト。
+[GitHub](https://github.com/lunardoesdev/backup-my-git)
+
+**yt-dlp-tools** — ポッドキャストやオーディオの便利なダウンロードのためのyt-dlpラッパー
+（MP3プレーヤーに最適で、カバー画像の埋め込みやスマートな命名規則をサポート）。
+[GitHub](https://github.com/lunardoesdev/yt-dlp-tools)
+
 ## 実験的なプロジェクト
 **Fruit Friction** — Kaplay.jsで作られた物理ベースのパズルゲーム。形状と摩擦が鍵となります。
 [GitHub](https://github.com/lunardoesdev/fruit-friction)

@@ -44,6 +44,14 @@
 **PHP 开发者 — 约 1.5 年 (2015–2016, 签署了保密协议)**
 负责后端功能开发、SQL 优化与缓存策略。确保在项目截止日期前完成交付。这是早期的工作经历，目前的重心已转移至系统与网络工具开发。
 
+## 脚本与工具
+**backup-my-git** — 用于备份 Git 仓库的 Guile 脚本。
+[GitHub](https://github.com/lunardoesdev/backup-my-git)
+
+**yt-dlp-tools** — 方便下载播客和音频的 yt-dlp 包装器
+（非常适合 MP3 播放器，支持内嵌封面和智能命名方案）。
+[GitHub](https://github.com/lunardoesdev/yt-dlp-tools)
+
 ## 实验性项目
 **Fruit Friction** — 基于 Kaplay.js 的物理引擎解谜游戏，形状与摩擦力是通关的关键。
 [GitHub](https://github.com/lunardoesdev/fruit-friction)

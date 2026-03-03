@@ -57,6 +57,14 @@ Backend features, SQL optimization, caching. Shipped
 under deadlines. Legacy work; current focus is systems
 and networking tooling.
 
+## Scripts & Utilities
+**backup-my-git** — Guile script for backing up Git repositories.
+[GitHub](https://github.com/lunardoesdev/backup-my-git)
+
+**yt-dlp-tools** — yt-dlp wrappers for convenient podcast and audio downloading
+(ideal for MP3 players, features embedded covers and smart naming schemes).
+[GitHub](https://github.com/lunardoesdev/yt-dlp-tools)
+
 ## Experiments
 **Fruit Friction** — Physics-based puzzle on Kaplay.js
 where shape and friction matter.
