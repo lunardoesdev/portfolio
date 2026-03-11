@@ -30,6 +30,16 @@
 軽量なLinux向けネイティブデスクトップアプリ。ストリーミング再生、システムトレイ連携、最小限のリソース消費を実現。
 [GitHub](https://github.com/radihypn/radihypn)
 
+## 主な出版物
+
+**POSIX C/C++ ビルドの環境変数に関する詳細ガイド**
+POSIX システムで C および C++ プロジェクトをビルドする際の環境変数の使用に関する実践的なガイド。
+[読む](https://lunardoesdev.github.io/posts/2026-03-10-posix-environment-variables.html)
+
+**様々なプラットフォーム向けのクロスコンパイラとツールチェーン**
+様々なプラットフォームをターゲットにするためのクロスコンパイラとツールチェーンのコレクション。
+[読む](https://lunardoesdev.github.io/posts/2026-03-11-crosscompilers-for-platforms.html)
+
 ## オープンソースへの貢献
 - **i2pdエコシステム:** i2pd-toolsの継続的ビルドの構築、dinitサービス設定の追加（アップストリームにマージ済）、自動静的リンク付きのRustバインディングの開発。
 - **PurpleI2P/i2pd:** プルリクエスト [#2338](https://github.com/PurpleI2P/i2pd/pull/2338) が正常にマージされました。

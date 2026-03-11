@@ -30,6 +30,16 @@ Generación de instancias en el mismo proceso desde cualquier enlace (VLESS, VMe
 Aplicación nativa y ligera de escritorio para Linux. Reproducción en streaming, integración en la bandeja del sistema y mínimo consumo de recursos.
 [GitHub](https://github.com/radihypn/radihypn)
 
+## Publicaciones Destacadas
+
+**Guía detallada sobre variables de entorno para compilaciones C/C++ en POSIX**
+Guía práctica sobre el uso de variables de entorno al compilar proyectos C y C++ en sistemas POSIX.
+[Leer](https://lunardoesdev.github.io/posts/2026-03-10-posix-environment-variables.html)
+
+**Compiladores cruzados y cadenas de herramientas para diferentes plataformas**
+Colección de compiladores cruzados y cadenas de herramientas para apuntar a diferentes plataformas.
+[Leer](https://lunardoesdev.github.io/posts/2026-03-11-crosscompilers-for-platforms.html)
+
 ## Contribuciones Open Source
 - **Ecosistema i2pd:** Integración continua para i2pd-tools, configuración de servicio dinit (fusionado en el repositorio oficial), bindings en Rust con enlazado estático automatizado.
 - **PurpleI2P/i2pd:** Pull request integrado con éxito [#2338](https://github.com/PurpleI2P/i2pd/pull/2338).

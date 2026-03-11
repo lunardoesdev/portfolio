@@ -38,6 +38,18 @@ Lightweight native Linux desktop app. Stream playback,
 system tray integration, minimal resource footprint.
 [GitHub](https://github.com/radihypn/radihypn)
 
+## Featured Publications
+
+**Detailed guide to environment variables for POSIX C/C++ builds**
+Practical guide to using environment variables when building
+C and C++ projects on POSIX systems.
+[Read](https://lunardoesdev.github.io/posts/2026-03-10-posix-environment-variables.html)
+
+**Cross-compilers and toolchains for different platforms**
+Collection of cross-compilers and toolchains for targeting
+different platforms.
+[Read](https://lunardoesdev.github.io/posts/2026-03-11-crosscompilers-for-platforms.html)
+
 ## Open Source Contributions
 - **i2pd ecosystem**: continuous builds for i2pd-tools,
   dinit service config (merged upstream), Rust bindings

@@ -30,6 +30,16 @@
 轻量级的 Linux 原生桌面应用。支持流媒体播放、系统托盘集成，占用极少的系统资源。
 [GitHub](https://github.com/radihypn/radihypn)
 
+## 精选出版物
+
+**POSIX C/C++ 构建中环境变量的详细指南**
+在 POSIX 系统上构建 C 和 C++ 项目时使用环境变量的实用指南。
+[阅读](https://lunardoesdev.github.io/posts/2026-03-10-posix-environment-variables.html)
+
+**不同平台的交叉编译器和工具链**
+用于目标化不同平台的交叉编译器和工具链集合。
+[阅读](https://lunardoesdev.github.io/posts/2026-03-11-crosscompilers-for-platforms.html)
+
 ## 开源贡献
 - **i2pd 生态系统:** 维护 i2pd-tools 的持续构建集成，提交了 dinit 服务配置（已合并至上游），以及实现了全自动静态链接的 Rust 绑定。
 - **PurpleI2P/i2pd:** 成功合并了 Pull Request [#2338](https://github.com/PurpleI2P/i2pd/pull/2338)。

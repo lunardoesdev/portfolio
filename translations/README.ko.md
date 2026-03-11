@@ -30,6 +30,16 @@
 가벼운 리눅스 네이티브 데스크톱 애플리케이션입니다. 스트리밍 재생, 시스템 트레이 통합 기능과 함께 최소한의 리소스만 차지합니다.
 [GitHub](https://github.com/radihypn/radihypn)
 
+## 주요 출판물
+
+**POSIX C/C++ 빌드를 위한 환경 변수 상세 가이드**
+POSIX 시스템에서 C 및 C++ 프로젝트를 빌드할 때 환경 변수를 사용하는 실용적인 가이드.
+[읽기](https://lunardoesdev.github.io/posts/2026-03-10-posix-environment-variables.html)
+
+**다양한 플랫폼을 위한 크로스 컴파일러 및 툴체인**
+다양한 플랫폼을 타겟팅하기 위한 크로스 컴파일러 및 툴체인 모음.
+[읽기](https://lunardoesdev.github.io/posts/2026-03-11-crosscompilers-for-platforms.html)
+
 ## 오픈소스 기여
 - **i2pd 생태계:** i2pd-tools를 위한 지속적인 빌드 구성, dinit 서비스 구성(업스트림에 병합됨), 자동 정적 링킹이 포함된 Rust 바인딩 개발.
 - **PurpleI2P/i2pd:** 풀 리퀘스트 [#2338](https://github.com/PurpleI2P/i2pd/pull/2338) 성공적 병합 완료.
