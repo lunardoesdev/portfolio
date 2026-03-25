@@ -27,6 +27,11 @@ when the project demands it.
 
 ## Featured Projects
 
+**Mintfused** — Custom Linux distribution based on Linux Mint
+(ISO is missing due to free GitHub account limitations, but the
+creation process is detailed).
+[GitHub](https://github.com/lunardoesdev/mintfused)
+
 **Singerbox** — Go bindings for sing-box proxy engine
 In-process instance spawning from any share link (VLESS,
 VMess, Shadowsocks, Hysteria). Zero-config defaults,

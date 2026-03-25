@@ -22,6 +22,10 @@
 
 ## 精选项目
 
+**Mintfused** — 基于 Linux Mint 的自定义 Linux 发行版
+（由于 GitHub 免费账户的限制，ISO 缺失，但详细描述了创建过程）。
+[GitHub](https://github.com/lunardoesdev/mintfused)
+
 **Singerbox** — sing-box 代理引擎的 Go 语言绑定
 支持从任何分享链接（VLESS, VMess, Shadowsocks, Hysteria）创建进程内实例。零配置默认设置，干净安全的内存释放。易于嵌入，无需启动子进程。
 [GitHub](https://github.com/lunardoesdev/singerbox)

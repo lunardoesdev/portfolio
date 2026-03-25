@@ -22,6 +22,11 @@
 
 ## 主要プロジェクト
 
+**Mintfused** — Linux Mint ベースのカスタム Linux ディストリビューション
+（GitHubの無料アカウントの制限によりISOはありませんが、作成プロセスは
+詳細に記載されています）。
+[GitHub](https://github.com/lunardoesdev/mintfused)
+
 **Singerbox** — sing-boxプロキシエンジンのGoバインディング
 任意の共有リンク（VLESS, VMess, Shadowsocks, Hysteria）から同一プロセス内でインスタンスを生成。ゼロコンフィグなデフォルト設定とクリーンな終了処理。サブプロセス不要で、システムへの組み込みが容易。
 [GitHub](https://github.com/lunardoesdev/singerbox)

@@ -22,6 +22,11 @@
 
 ## Основные проекты
 
+**Mintfused** — Свой Linux-дистрибутив на основе Linux Mint.
+(ISO отсутствует ввиду ограничений бесплатного аккаунта GitHub,
+но процесс создания описан детально).
+[GitHub](https://github.com/lunardoesdev/mintfused)
+
 **Singerbox** — Go-биндинги для прокси-движка sing-box.
 Запуск инстанса внутри текущего процесса из любой ссылки (VLESS, VMess, Shadowsocks, Hysteria). Работает «из коробки» без сложной настройки, корректно завершает работу. Легко встраивается, не требует создания дочерних процессов.
 [GitHub](https://github.com/lunardoesdev/singerbox)

@@ -22,6 +22,11 @@
 
 ## 주요 프로젝트
 
+**Mintfused** — Linux Mint 기반의 맞춤형 Linux 배포판
+(GitHub 무료 계정의 제한으로 인해 ISO는 제공되지 않지만, 제작 과정이
+상세히 설명되어 있습니다).
+[GitHub](https://github.com/lunardoesdev/mintfused)
+
 **Singerbox** — sing-box 프록시 엔진을 위한 Go 바인딩
 임의의 공유 링크(VLESS, VMess, Shadowsocks, Hysteria)에서 단일 프로세스 내의 인스턴스를 생성합니다. 설정 없는(Zero-config) 기본값과 깔끔한 종료 처리를 지원합니다. 서브 프로세스가 없어 시스템 임베딩에 적합합니다.
 [GitHub](https://github.com/lunardoesdev/singerbox)

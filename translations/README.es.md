@@ -22,6 +22,11 @@ Desarrollo herramientas de bajo nivel, bindings para protocolos y aplicaciones m
 
 ## Proyectos Destacados
 
+**Mintfused** — Distribución de Linux personalizada basada en Linux Mint.
+(Falta la ISO debido a las limitaciones de la cuenta gratuita de GitHub,
+pero el proceso de creación se detalla).
+[GitHub](https://github.com/lunardoesdev/mintfused)
+
 **Singerbox** — Bindings en Go para el motor de proxy sing-box.
 Generación de instancias en el mismo proceso desde cualquier enlace (VLESS, VMess, Shadowsocks, Hysteria). Configuración automática por defecto y cierre limpio. Integrable, sin subprocesos.
 [GitHub](https://github.com/lunardoesdev/singerbox)
