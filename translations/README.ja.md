@@ -79,6 +79,15 @@ POSIX システムで C および C++ プロジェクトをビルドする際の
 **file2doc** — テキストファイルを、同じパスにそれらのファイルを再現するbashスクリプトに変換するユーティリティ。
 [GitHub](https://github.com/lunardoesdev/file2doc)
 
+**ytdla** — yt-dlpを内部で使用してYouTubeからオーディオをダウンロードするための、オピニオネイテッドなスクリプト。
+[GitHub](https://github.com/lunardoesdev/ytdla)
+
+**file2sh** — ファイルを読み込み、そのファイルを再現するシェルスクリプトを生成するユーティリティ。
+[GitHub](https://github.com/lunardoesdev/file2sh)
+
+**examplenv** — シークレット値をサンプル値で上書きし、.envから安全な.env.exampleを生成するユーティリティ。
+[GitHub](https://github.com/lunardoesdev/examplenv)
+
 ## 実験的なプロジェクト
 **Fruit Friction** — Kaplay.jsで作られた物理ベースのパズルゲーム。形状と摩擦が鍵となります。
 [GitHub](https://github.com/lunardoesdev/fruit-friction)

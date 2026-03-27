@@ -79,6 +79,15 @@
 **file2doc** — Утилита, которая конвертирует текстовые файлы в bash-скрипт, воссоздающий эти файлы по тем же путям.
 [GitHub](https://github.com/lunardoesdev/file2doc)
 
+**ytdla** — Opinionated скрипт для скачивания аудио с YouTube на базе yt-dlp.
+[GitHub](https://github.com/lunardoesdev/ytdla)
+
+**file2sh** — Утилита, которая читает файл и генерирует shell-скрипт, воссоздающий этот файл.
+[GitHub](https://github.com/lunardoesdev/file2sh)
+
+**examplenv** — Утилита для генерации безопасного .env.example из вашего .env, перезаписывающая секретные значения на тестовые.
+[GitHub](https://github.com/lunardoesdev/examplenv)
+
 ## Эксперименты
 **Fruit Friction** — Физическая головоломка на движке Kaplay.js, где всё зависит от формы объектов и силы трения.
 [GitHub](https://github.com/lunardoesdev/fruit-friction)

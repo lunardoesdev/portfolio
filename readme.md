@@ -94,6 +94,15 @@ and networking tooling.
 **file2doc** — Utility that converts text files to a bash script that reproduces those files in the same paths.
 [GitHub](https://github.com/lunardoesdev/file2doc)
 
+**ytdla** — Opinionated script for downloading audio from youtube using yt-dlp under the hood.
+[GitHub](https://github.com/lunardoesdev/ytdla)
+
+**file2sh** — Utility that reads a file and generates a shell script that reproduces that file.
+[GitHub](https://github.com/lunardoesdev/file2sh)
+
+**examplenv** — Utility to generate a safe .env.example from your .env, overwriting secret values with sample ones.
+[GitHub](https://github.com/lunardoesdev/examplenv)
+
 ## Experiments
 **Fruit Friction** — Physics-based puzzle on Kaplay.js
 where shape and friction matter.

@@ -79,6 +79,15 @@ Desarrollo de funcionalidades backend, optimización de SQL y caché. Entregas c
 **file2doc** — Utilidad que convierte archivos de texto en un script de bash que reproduce esos archivos en las mismas rutas.
 [GitHub](https://github.com/lunardoesdev/file2doc)
 
+**ytdla** — Script opinionado para descargar audio de YouTube usando yt-dlp por debajo.
+[GitHub](https://github.com/lunardoesdev/ytdla)
+
+**file2sh** — Utilidad que lee un archivo y genera un script de shell que reproduce ese archivo.
+[GitHub](https://github.com/lunardoesdev/file2sh)
+
+**examplenv** — Utilidad para generar un .env.example seguro a partir de tu .env, sobrescribiendo valores secretos con ejemplos.
+[GitHub](https://github.com/lunardoesdev/examplenv)
+
 ## Experimentos
 **Fruit Friction** — Puzzle basado en físicas con Kaplay.js donde la forma y la fricción son claves.
 [GitHub](https://github.com/lunardoesdev/fruit-friction)

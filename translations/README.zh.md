@@ -78,6 +78,15 @@
 **file2doc** — 将文本文件转换为 bash 脚本的实用工具，该脚本能在相同路径下重新生成这些文件。
 [GitHub](https://github.com/lunardoesdev/file2doc)
 
+**ytdla** — 基于 yt-dlp 的 YouTube 音频下载脚本。
+[GitHub](https://github.com/lunardoesdev/ytdla)
+
+**file2sh** — 读取文件并生成可重建该文件的 shell 脚本的实用工具。
+[GitHub](https://github.com/lunardoesdev/file2sh)
+
+**examplenv** — 通过将机密值覆盖为示例值，从 .env 生成安全的 .env.example 的实用工具。
+[GitHub](https://github.com/lunardoesdev/examplenv)
+
 ## 实验性项目
 **Fruit Friction** — 基于 Kaplay.js 的物理引擎解谜游戏，形状与摩擦力是通关的关键。
 [GitHub](https://github.com/lunardoesdev/fruit-friction)
